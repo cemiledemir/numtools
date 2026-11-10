@@ -1,0 +1,160 @@
+{
+ "description": "Cleaning of australian_users_items.json (UCSD Steam). Game ID = Steam appid (int).",
+ "removed_non_games": {
+  "1210": "Red Orchestra Beta",
+  "29110": "Retro/Grade IGF Demo",
+  "29140": "Between IGF Demo",
+  "35470": "The Ball Beta",
+  "55130": "HOMEFRONT Demo",
+  "61530": "Age of Wonders: Trilogy Soundtrack",
+  "73000": "Lionheart - Kings' Crusade Demo",
+  "105200": "Reign of Thunder (Beta)",
+  "205790": "Dota 2 Test",
+  "206980": "War of the Roses Balance Beta",
+  "208610": "Skullgirls ∞Endless Beta∞",
+  "211970": "Test Drive®: Ferrari Racing Legends",
+  "213570": "Trash TV (demo)",
+  "215060": "Painkiller Hell & Damnation Beta",
+  "216370": "Nexuiz Beta",
+  "219540": "Arma 2: Operation Arrowhead Beta (Obsolete)",
+  "219700": "Dogs of War Online - Beta",
+  "220680": "StarDrive Beta",
+  "222500": "Rail Adventures - VR Tech Demo",
+  "223530": "Left 4 Dead 2 Beta",
+  "230170": "Divinity: Dragon Commander Beta",
+  "230250": "The Showdown Effect Beta",
+  "232150": "Killing Floor 2 - SDK",
+  "238590": "Loadout Campaign Beta",
+  "253230": "A Hat in Time - Beta Build",
+  "270370": "Lambda Wars Beta",
+  "273550": "Terrain Test",
+  "313240": "Wilson Chronicles - Beta",
+  "314680": "Crypt of the Necrodancer Soundtrack",
+  "317760": "Always Sometimes Monsters Demo",
+  "319060": "Lambda Wars Dedicated Server",
+  "323730": "TRI Original Soundtrack + Artbook",
+  "324850": "Red Orchestra 2/Rising Storm Beta Community Maps",
+  "339010": "Rising World Dedicated Server",
+  "339430": "Darkness Assault - Soundtrack",
+  "346680": "Black Mesa Dedicated Server",
+  "349110": "Medieval Engineers - Mod SDK",
+  "349740": "Shelter 2 Soundtrack",
+  "355300": "Night Mysteries: The Amphora Prisoner - Official Soundtrack",
+  "362300": "H1Z1: Just Survive Test Server",
+  "366080": "Crypt of the NecroDancer Extended Soundtrack",
+  "367090": "Robot Roller-Derby Disco Dodgeball Soundtrack",
+  "378180": "Football Manager 2016 Demo",
+  "382940": "Hitman™ Beta",
+  "386800": "Street Fighter V Beta",
+  "393250": "Savage Resurrection Dedicated Server",
+  "397080": "Magicka 2: Spell Balance Beta",
+  "399750": "Mad Max System Test",
+  "406100": "Angels That Kill Soundtrack",
+  "407400": "The Juicer - Official Soundtrack",
+  "413010": "Conflicks - Revolutionary Space Battles Demo",
+  "415310": "TyranoBuilder Visual Novel Studio Demo",
+  "416880": "Ballistic Overkill Dedicated Server",
+  "418580": "Albert and Otto - Original Soundtrack",
+  "430290": "Shmups Skill Test",
+  "434430": "Abbot's Book Demo",
+  "439400": "Legends of Callasia Demo",
+  "439700": "H1Z1: King of the Kill Test Server",
+  "442700": "MaximumVR Demo",
+  "445900": "Hurtworld SDK",
+  "452040": "GameLoading: Beta The Robot",
+  "453190": "PITCH-HIT : HOOPS DEMO",
+  "456000": "8-Bit Commando Demo",
+  "456040": "Princess.Loot.Pixel.Again Soundtrack",
+  "457550": "Bigscreen Beta",
+  "466590": "Kathy Rain Demo",
+  "494770": "FIREFIGHT RELOADED Dedicated Server",
+  "497960": "Legends of Callasia Demo",
+  "499520": "The Turing Test",
+  "503110": "Curvatron - Soundtrack",
+  "511360": "UNCORPOREAL - Holographic Photography Demo",
+  "520210": "DreamDesk VR Beta",
+  "524990": "Microcosmum: survival of cells - Soundtrack",
+  "529670": "The Bellows: VR Demo"
+ },
+ "merged_into": {
+  "340": {
+   "name": "Half-Life 2: Lost Coast",
+   "into": 220,
+   "into_name": "Half-Life 2"
+  },
+  "1309": {
+   "name": "SiN Multiplayer",
+   "into": 1313,
+   "into_name": "SiN"
+  },
+  "2420": {
+   "name": "The Ship Single Player",
+   "into": 2400,
+   "into_name": "The Ship"
+  },
+  "10190": {
+   "name": "Call of Duty: Modern Warfare 2 - Multiplayer",
+   "into": 10180,
+   "into_name": "Call of Duty: Modern Warfare 2"
+  },
+  "35420": {
+   "name": "Killing Floor Mod: Defence Alliance 2",
+   "into": 1250,
+   "into_name": "Killing Floor"
+  },
+  "42690": {
+   "name": "Call of Duty: Modern Warfare 3 - Multiplayer",
+   "into": 42680,
+   "into_name": "Call of Duty: Modern Warfare 3"
+  },
+  "42710": {
+   "name": "Call of Duty: Black Ops - Multiplayer",
+   "into": 42700,
+   "into_name": "Call of Duty: Black Ops"
+  },
+  "47830": {
+   "name": "Medal of Honor(TM) Multiplayer",
+   "into": 47790,
+   "into_name": "Medal of Honor (2010)"
+  },
+  "202990": {
+   "name": "Call of Duty: Black Ops II - Multiplayer",
+   "into": 202970,
+   "into_name": "Call of Duty: Black Ops II"
+  },
+  "209170": {
+   "name": "Call of Duty: Ghosts - Multiplayer",
+   "into": 209160,
+   "into_name": "Call of Duty: Ghosts"
+  },
+  "209660": {
+   "name": "Call of Duty: Advanced Warfare - Multiplayer",
+   "into": 209650,
+   "into_name": "Call of Duty: Advanced Warfare"
+  },
+  "212910": {
+   "name": "Call of Duty: Black Ops II - Zombies",
+   "into": 202970,
+   "into_name": "Call of Duty: Black Ops II"
+  },
+  "236830": {
+   "name": "Red Orchestra 2: Heroes of Stalingrad - Single Player",
+   "into": 35450,
+   "into_name": "Red Orchestra 2 / Rising Storm"
+  },
+  "319580": {
+   "name": "FortressCraft Evolved Multiplayer",
+   "into": 254200,
+   "into_name": "FortressCraft Evolved"
+  },
+  "432310": {
+   "name": "Virtual Pool 4 Multiplayer",
+   "into": 336150,
+   "into_name": "Virtual Pool 4"
+  }
+ },
+ "renamed": {
+  "47790": "Medal of Honor (2010)",
+  "35450": "Red Orchestra 2 / Rising Storm"
+ }
+}
